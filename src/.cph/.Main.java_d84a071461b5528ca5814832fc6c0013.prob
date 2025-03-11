@@ -1,1 +1,0 @@
-{"name":"Local: Main","url":"/Users/taeung/Documents/25SS/object-oriented-programming-experiments/src/Main.java","tests":[{"id":1741501153653,"input":"5 4\n3 1\n3 2\n4 3\n5 3","output":"1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/taeung/Documents/25SS/object-oriented-programming-experiments/src/Main.java","group":"local","local":true}
