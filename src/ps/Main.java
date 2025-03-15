@@ -1,11 +1,16 @@
+package ps;
+
 import java.io.*;
 import java.util.*;
 
 public class Main {
+
+    //    @SuppressWarnings("unchecked")
     public static void main(String[] args) throws Exception {
         FastReader sc = new FastReader();
         PrintWriter out = new PrintWriter(new BufferedOutputStream(System.out));
 
+        
         out.flush();
         out.close();
     }
